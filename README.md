@@ -1,2 +1,2 @@
 # bookbot
-Boot.Dev course workspace
+BookBot is my first project!
